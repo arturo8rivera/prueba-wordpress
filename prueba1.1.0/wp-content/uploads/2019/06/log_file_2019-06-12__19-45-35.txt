@@ -1,0 +1,45 @@
+
+---Downloaded files---
+The import files for: Demo content were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/prueba1
+Data file = C:\xampp\htdocs\prueba1/wp-content/themes/sydney/demo-content/demo-content.xml
+Widget file = C:\xampp\htdocs\prueba1/wp-content/themes/sydney/demo-content/demo-widgets.wie
+Customizer file = C:\xampp\htdocs\prueba1/wp-content/themes/sydney/demo-content/demo-customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Buscar - No Title - Widget already exists
+Entradas recientes - No Title - Widget already exists
+Comentarios recientes - No Title - Widget already exists
+Archivos - No Title - Widget already exists
+Categorías - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Footer 1 : 
+
+Vídeo - No Title - Imported
+
+Footer 2 : 
+
+Texto - No Title - Imported
+
+Footer 3 : 
+
+Sydney: Contact info - Get in touch - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
